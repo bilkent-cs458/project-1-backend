@@ -1,0 +1,18 @@
+[
+  {
+    "email": "verification@bilkent.edu.tr",
+    "password": "verifythis"
+  },
+  {
+    "email": "hande@bilkent.edu.tr",
+    "password": "secret1"
+  },
+  {
+    "email": "ege@bilkent.edu.tr",
+    "password": "secret2"
+  },
+  {
+    "email": "ogulcan@bilkent.edu.tr",
+    "password": "secret3"
+  }
+]
